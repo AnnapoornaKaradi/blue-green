@@ -1,0 +1,8 @@
+@Vishwanath Bhat, Gururaj thank you setting up the call with todd & gave a chance to explain blue-green deployment PoC
+ 
+Hi @ Zafar,
+
+As per yesterday’s discussion with Todd, todd was happy with the PoC on blue-green deployment & wants to take it further for salesinhere application through CICD integeration. I have documented the PoC done till now & attached the same. Team can go forward with CICD integration with blue-green deployment. & reach out to me for any help.
+
+Thank you,
+Annu

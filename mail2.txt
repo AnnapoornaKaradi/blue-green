@@ -1,0 +1,11 @@
+@Vishwanath Bhat, Gururaj Thank you for arranging the call with todd & giving me the opportunity to present the PoC.
+@Desai, Vijayamahantesh Thank you for providing necessary application changes whenever I hit up which contributed to the successful deployment.
+
+Hi @Zafrulla, Mohamed,
+
+As discussed with Todd yesterday, he was pleased with the blue-green deployment PoC & is interested in moving forward with implementing it for the Salesinhere application through CI/CD integration.
+
+I have documented the PoC completed so far & attached it for reference. The team can proceed with the CI/CD integration for blue-green deployment, & happy to help at point of time.
+
+Regards,
+Annu
